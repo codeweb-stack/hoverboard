@@ -1,16 +1,17 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
+  "url": "https://kdm-del.firebaseapp.com/",
   "analytics": "UA-43643469-9",
   "prefix": "/",
   "firebase": {
-    "appId": "1:516409946568:web:ad5a56d452fc421c",
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "apiKey": "AIzaSyAeSHo3Z8J2r9Q9iO_AvpQ97p4m5x-EylE",
+    "authDomain": "kdm-del.firebaseapp.com",
+    "databaseURL": "https://kdm-del.firebaseio.com",
+    "projectId": "kdm-del",
+    "storageBucket": "kdm-del.appspot.com",
+    "messagingSenderId": "873772679380",
+    "appId": "1:873772679380:web:aeb052fc85e8c69370bb41",
+    "measurementId": "G-N6LLM85CGF"
   },
   "googleMapApiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8"
 }
